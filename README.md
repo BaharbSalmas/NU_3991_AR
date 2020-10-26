@@ -15,13 +15,10 @@
 ## دروس کارشناسی
 
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/BaharbSalmas/PNU_3991_AR-1/TREE/main/HumanComputerInteraction)
 <br>
-[1115280_01	معماري نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[1115280_01	معماري نرم افزار	3](https://github.com/BaharbSalmas/PNU_3991_AR-1/TREE/main/UserInterfaceDesgin)
 <br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
-<br>
-[1115029_02	سمينار	2](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-1)
 
 --------------
 ## روز و ساعت ارائه دروس
