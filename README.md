@@ -15,9 +15,9 @@
 ## دروس کارشناسی
 
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/BaharbSalmas/PNU_3991_AR-1/TREE/main/HumanComputerInteraction)
+[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/BaharbSalmas/PNU_3991_AR-1/TREE/main/HumanComputerInteraction)
 <br>
-[1115280_01	معماري نرم افزار	3](https://github.com/BaharbSalmas/PNU_3991_AR-1/TREE/main/UserInterfaceDesgin)
+[1322110_01 طراحي واسط كاربر 3](https://github.com/BaharbSalmas/PNU_3991_AR-1/TREE/main/UserInterfaceDesgin)
 <br>
 
 --------------
