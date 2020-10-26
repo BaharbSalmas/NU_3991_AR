@@ -4,11 +4,9 @@
 ### بهاره برادران سلماس
  
 ---
-- [حساب گیت هاب]()
+- [حساب گیت هاب](https://github.com/BaharbSalmas/)
 
-- [رزومه]()
-
-- [SOP]()
+[رزومه](https://github.com/BaharbSalmas/baharbsalmas.github.io)
 
 
 ------------------
