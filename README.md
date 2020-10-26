@@ -14,9 +14,9 @@
 
 ## دروس کارشناسی
 
-[1322108_01 تعامل انسان و كامپيوتر 3]()
+[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/HumanComputerInteraction)
 <br>
-[1322110_01 طراحي واسط كاربر 3]()
+[1322110_01 طراحي واسط كاربر 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
 --------------
 ## روز و ساعت ارائه دروس
