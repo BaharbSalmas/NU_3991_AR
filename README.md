@@ -62,9 +62,10 @@
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربر</a></th>
     <th></th>
     <th ></th>
-    <th>سه شنبه</th>
-  </tr>
+      </tr>
+ 
    <tr>
+    <th>سه شنبه</th>
     <th ></th>
     <th ></th>
     <th></th>
@@ -73,9 +74,13 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
+  <th>پنج شنبه</th>
     <th ></th>
-     <th ></th>
-     <th><a></a></th>
-    <th>پنج شنبه</th>
+    <th ></th>
+    <th></th>
+    <th ></th>
+    <th></th>
+    <th ></th>
+    <th></th>
   </tr>
 </table>
