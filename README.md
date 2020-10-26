@@ -6,19 +6,19 @@
 ---
 - [حساب گیت هاب](https://github.com/BaharbSalmas/)
 
-[رزومه](https://github.com/BaharbSalmas/baharbsalmas.github.io)
+- [رزومه](https://github.com/BaharbSalmas/baharbsalmas.github.io)
 
 
 ------------------
 ## Winter Semester Courses 1399/2020
 
-##دروس کارشناسی
+## دروس کارشناسی
 
 
 <br>
-[1322108_01 تعامل انسان و كامپيوتر 3]()
+## [1322108 01 تعامل انسان و كامپيوتر 3]()
 <br>
-[1322110_01 طراحي واسط كاربر 3]()
+## [1322110_01 طراحي واسط كاربر 3]()
 --------------
 ## روز و ساعت ارائه دروس
 
