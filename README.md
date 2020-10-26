@@ -16,9 +16,9 @@
 
 
 <br>
-## [1322108 01 تعامل انسان و كامپيوتر 3]()
+ [1322108 01 تعامل انسان و كامپيوتر 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 <br>
-## [1322110_01 طراحي واسط كاربر 3]()
+ [1322110_01 طراحي واسط كاربر 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 --------------
 ## روز و ساعت ارائه دروس
 
