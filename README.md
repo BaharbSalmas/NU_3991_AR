@@ -43,29 +43,28 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ></th>
+    <th></th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
      <th ></th>
-     <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر </a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربر</a></th>
      <th></th>
-    <th></th>
-    <th></th>   
+    <th ></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر </a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربر</a></th>
+    <th ></th>
+    <th></th>
     <th></th>
     <th ></th>
-      </tr>
- 
-   <tr>
     <th>سه شنبه</th>
+  </tr>
+   <tr>
     <th ></th>
     <th ></th>
     <th></th>
@@ -74,13 +73,11 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
-  <th>پنج شنبه</th>
     <th ></th>
-    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
     <th></th>
-    <th ></th>
-    <th></th>
-    <th ></th>
-    <th></th>
+    <th>پنج شنبه</th>
   </tr>
 </table>
