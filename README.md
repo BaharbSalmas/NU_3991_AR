@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/BaharbSalmas/)
 
-- [رزومه](https://github.com/BaharbSalmas/baharbsalmas.github.io)
+- [رزومه](https://baharbsalmas.github.io/)
 
 - [SOP](https://baharbsalmas.github.io/SOP/)
 
