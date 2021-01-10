@@ -11,6 +11,12 @@
 - [SOP](https://baharbsalmas.github.io/SOP/)
 - [JavaScript_certificate](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/JavaScript_certificate/cert-1024-20267960%20(1).jpg)
 ------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+
 ## گروه ها
 
 1. G-U03
