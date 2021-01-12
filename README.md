@@ -11,7 +11,7 @@
 
 - [SOP](https://baharbsalmas.github.io/SOP/)
 
--[jlord_patchwork]()
+- [jlord_patchwork]()
 
 - [JavaScript_certificate](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/JavaScript_certificate/cert-1024-20267960%20(1).jpg)
 
