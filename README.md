@@ -17,8 +17,8 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/General/jpg2pdf%20(1).pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/General/jpg2pdf.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/General/jpg2pdf%20(1).pdf)
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس طراحی واسط کاربر]()
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
