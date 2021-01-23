@@ -2,7 +2,7 @@
 
 ### تعامل انسان و رایانه، دانشگاه خوارزمی
 
-<a  target="_blank"><img src="" border="0" alt="picture of book" /></a>
+<a  target="_blank"><img src="https://s3.studylib.net/store/data/025287478_1-b5730ef74220146927ce2150ec711540.png-210x147.png" border="0" alt="picture of book" /></a>
 
 Human Computer Interaction
 
