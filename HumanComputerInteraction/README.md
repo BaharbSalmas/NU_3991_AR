@@ -1,6 +1,6 @@
-1) معرفی یک درس مشابه
+### معرفی یک درس مشابه
 
-### تعامل انسان و رایانه، دانشگاه خوارزمی
+ تعامل انسان و رایانه، دانشگاه خوارزمی
 
 <a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" style="width: 30% ; max-width:30% ;" /></a>
 
