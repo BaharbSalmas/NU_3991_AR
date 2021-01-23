@@ -16,7 +16,7 @@
 - [JavaScript_certificate](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/JavaScript_certificate/cert-1024-20267960%20(1).jpg)
 
 ------------------
-> ارزیابی ها
+### ارزیابی ها
 
 ##  بخش عمومی
 - [خلاصه ارزیابی بخش عمومی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/General/jpg2pdf.pdf)
