@@ -2,7 +2,7 @@
 
  تعامل انسان و رایانه، دانشگاه خوارزمی
 
-<a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" style="width: 30% ; max-width:30% ;" /></a>
+<a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" style="width: 30% ;" /></a>
 
 Human Computer Interaction
 
@@ -13,17 +13,17 @@ Third edition
 ------------------
 
 ### جزئیات پروژه
-2)	انتخاب موضوع کار گروهی
+### انتخاب موضوع کار گروهی
 موضوع پروژه : طراحی منو و نو بار سایت e-learning
 
-3)تحلیل نیاز ها 
+### تحلیل نیاز ها 
 توضیجات و تحلیل های اعضای گروه در فایل زیر نوشته شده است.
 
-- [ توضیحات پروژه و گزارش گروهی]()
-- [تجربه کاربری]()
-- [طرح دستی]()
-- [وایر فریم]()
-- [اراِئه]()
+### - [ توضیحات پروژه و گزارش گروهی]()
+### - [تجربه کاربری]()
+### - [طرح دستی]()
+### - [وایر فریم]()
+### - [اراِئه]()
 
 ---------
 ### :اعضای گروه
