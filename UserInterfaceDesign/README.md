@@ -1,7 +1,10 @@
 <div dir=rtl >
  
 ### معرفی یک درس مشابه
-
+طراحی واسط کاربر، دانشگاه امیر کبیر
+Designing the user interface
+Strategies for effective human-computer interaction 
+Ben Shneiderman
 
 <a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/91yP51Q8iXL.jpg" border="0" alt="picture of book" width=30% /></a>
 
@@ -20,7 +23,7 @@
 
 ### - [ توضیحات پروژه و گزارش گروهی]()
 ### - [تجربه کاربری]()
-### - [طرح دستی]()
+### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/hand%20drawn%20wireframe%201_.jpg)
 ### - [وایر فریم]()
 ### - [ارائه]()
 
