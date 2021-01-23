@@ -23,7 +23,7 @@ Third edition
 
 ### - [ توضیحات پروژه و گزارش گروهی]()
 ### - [تجربه کاربری]()
-### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201%20.jpg)
+### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201_.jpg)
 ### - [وایر فریم]()
 ### - [ارائه]()
 
