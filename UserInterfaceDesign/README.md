@@ -28,8 +28,9 @@ Ben Shneiderman
 ### - [تجربه کاربری]()
 ### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/hand%20drawn%20wireframe%201_.jpg)
 ### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/menu%20.xd)
-### - [ارائه](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/WIRE%20FRAME%20%26%20prototype%20xd.mp4)
-### - [فایل ارزیابی] ()
+### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/WIRE%20FRAME%20%26%20prototype%20xd.mp4)
+### - [ارائه]()
+
 
 ---------
 
