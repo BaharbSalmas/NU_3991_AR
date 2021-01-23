@@ -1,4 +1,4 @@
-<div style="direction:rtl;" >
+<div style="direction:rtl" >
  
 ### معرفی یک درس مشابه
 
