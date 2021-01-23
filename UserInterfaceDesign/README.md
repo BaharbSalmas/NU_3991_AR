@@ -11,16 +11,16 @@ Ben Shneiderman
 
 <a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/91yP51Q8iXL.jpg" border="0" alt="picture of book" width=30% /></a>
 
-
-
-
-
 ------------------
 
 ### جزئیات پروژه
 
 ### انتخاب موضوع کار گروهی
-موضوع پروژه : طراحی منو و نو بار سایت e-learning   
+موضوع پروژه : طراحی منو و نو بار سایت e-learning  
+- [faradars](https://faradars.org/)
+- [maktabkhooneh](https://maktabkhooneh.org/) 
+- [faranesh](https://faranesh.com/)
+
 ### تحلیل نیاز ها 
 توضیحات و تحلیل های اعضای گروه در فایل زیر نوشته شده است.
 
