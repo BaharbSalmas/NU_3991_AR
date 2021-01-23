@@ -36,6 +36,9 @@ Ben Shneiderman
 ---------
 
 ### :اعضای گروه
+
+سرگروه: بهاره برادران سلماس
+
 1. G-U03
      1. [_UID-06_بهاره برادران سلماس](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/06_%D8%A8%D9%87%D8%A7%D8%B1%D9%87%20%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%20%D8%B3%D9%84%D9%85%D8%A7%D8%B3)    
     1. [_UID-27_مهسا کرمی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/28_%D9%85%D9%87%D8%B3%D8%A7%20%D9%83%D8%B1%D9%85%D9%8A)    
