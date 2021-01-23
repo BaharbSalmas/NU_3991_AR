@@ -21,9 +21,9 @@ Third edition
 ### تحلیل نیاز ها 
 توضیحات و تحلیل های اعضای گروه در فایل زیر نوشته شده است.
 
-### - [ توضیحات پروژه و گزارش گروهی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201%20.jpg)
+### - [ توضیحات پروژه و گزارش گروهی]()
 ### - [تجربه کاربری]()
-### - [طرح دستی]()
+### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201%20.jpg)
 ### - [وایر فریم]()
 ### - [ارائه]()
 
