@@ -1,3 +1,4 @@
+<div style="direction:rtl;" >
 ### معرفی یک درس مشابه
 
  تعامل انسان و رایانه، دانشگاه خوارزمی
@@ -14,7 +15,7 @@ Third edition
 
 ### جزئیات پروژه
 ### انتخاب موضوع کار گروهی
-موضوع پروژه : طراحی منو و نو بار سایت e-learning 
+موضوع پروژه : طراحی منو و نو بار سایت e-learning   
 ### تحلیل نیاز ها 
 توضیجات و تحلیل های اعضای گروه در فایل زیر نوشته شده است.
 
@@ -33,3 +34,4 @@ Third edition
     1. [_TOLAM-38_فاطمه طيبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/38_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B7%D9%8A%D8%A8%D9%8A)
     1. [_HCI-31_فاطمه مودتي شولمي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/31_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%AF%D8%AA%D9%8A%20%D8%B4%D9%88%D9%84%D9%85%D9%8A)  
 ------------------
+</div>
