@@ -3,7 +3,7 @@
 ### معرفی یک درس مشابه
 
 
-<a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" width=30% /></a>
+<a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/91yP51Q8iXL.jpg" border="0" alt="picture of book" width=30% /></a>
 
 
 
