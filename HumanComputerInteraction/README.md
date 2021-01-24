@@ -27,7 +27,14 @@ Third edition
 توضیحات و تحلیل های اعضای گروه در فایل زیر نوشته شده است
  - [ توضیحات پروژه و گزارش گروهی]()
  
-### - [تجربه کاربری]()
+### - [تجربه کاربری](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/prototype%20.mp4)
++ اولین چیزی که کاربر در سایت آن را می بیند و دنبال آن می گردد منو بار است.
++ ابتدا کاربر منو بار را مشاهده میکند و با دیدن آن متوجه میشود که هم میتواند در منو دنبال آن بگردد هم در سرچ منو میتواند مطلب مورد نیاز خود را سرچ کند.
++ منو بار دسته بندی شده است و با رفتن روی مطلب مورد نظر میتوان دوره مورد نظر را پیدا کرد.
++ دوستانی که بخواهند همکاری کنند کاملا واضح در منو برایشان لینک صفحه قرار داده شده است.
++ و همچنین برای ورود و ثبت نام کاربر نیاز نیست دنبال دکمه بگردد چون دکمه دقیقا در درد اوست.
++ منو هم کاملا واضح و ساده و همراه با آیکون هایی واضح طراحی شده است.
+
 ### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201_.jpg)
 ### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/wire%20frame%20menu%20XD.xd)
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
