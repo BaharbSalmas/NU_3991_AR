@@ -32,7 +32,7 @@ Third edition
 ### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/WIRE%20FRAME%20%26%20prototype%20xd.mp4)
 ### - [ارائه]()
-
+### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/BBS_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ---------
 
 ### :اعضای گروه
