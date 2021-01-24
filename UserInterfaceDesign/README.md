@@ -24,7 +24,7 @@ Ben Shneiderman
 ### تحلیل نیاز ها 
 
 توضیحات پروژه و جمع بندی تحلیل های اعضای گروه در فایل زیر نوشته شده است.
- - [ توضیحات پروژه و گزارش گروهی]()
+ - [ توضیحات پروژه و گزارش گروهی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/gozaresh%20gorohi.pdf)
  
 ### - [تجربه کاربری](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/prototype%20.mp4)
 + اولین چیزی که کاربر در سایت آن را می بیند و دنبال آن می گردد منو بار است.
