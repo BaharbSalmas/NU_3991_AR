@@ -27,6 +27,8 @@ Ben Shneiderman
  - [ توضیحات پروژه و گزارش گروهی]()
  
 ### - [تجربه کاربری]()
++اولین چیزی که کاربر در سایت آن را می بیند و دنبال آن می گردد منو بار است.
++ ابتدا کاربر منو بار را مشاهده میکند و با دیدن آن متوجه میشود که هم میتواند در منو دنبال آن بگردد هم در سرچ منو میتواند مطلب مورد نیاز خود را سرچ کند.
 ### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/hand%20drawn%20wireframe%201_.jpg)
 ### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/wire%20frame%20menu%20XD.xd)
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/menu%20.xd)
