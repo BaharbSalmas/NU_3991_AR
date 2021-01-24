@@ -22,8 +22,8 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/General/jpg2pdf.pdf)
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/General/jpg2pdf%20(1).pdf)
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/BBS_UserInterfaceDesgin_CheckList_AR_3991-converted.pdf)
-- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/BBS_HumanComputerInteraction_CheckList_AR_3991-converted.pdf)
+- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
 
 ------
 ## گروه ها
