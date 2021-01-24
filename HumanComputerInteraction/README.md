@@ -29,9 +29,9 @@ Third edition
  
 ### - [تجربه کاربری]()
 ### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201_.jpg)
-### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
-### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/WIRE%20FRAME%20%26%20prototype%20xd.mp4)
-### - [ارائه]()
+### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/wire%20frame%20menu%20XD.xd)
+### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
+### - [ارائه نهایی]()
 ### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/BBS_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ---------
 
