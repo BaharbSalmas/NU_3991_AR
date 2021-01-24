@@ -31,7 +31,7 @@ Ben Shneiderman
 ### - [وایر فریم]()
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/menu%20.xd)
 ### - [ارائه]()
-
+### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/BBS_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
 ---------
 
