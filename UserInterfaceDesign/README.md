@@ -41,7 +41,7 @@ Ben Shneiderman
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/menu%20.xd)
 ### - [ارائه نهایی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/Erae%20koli.mp4)
 ### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/BB_UserInterfaceDesgin_CheckList_AR_3991-converted.pdf)
-### - [پیاده سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/Screenshot%20(57).png)
+### - [پیاده سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/checking%20my%20code.mp4)
 + پیاده سازی کامل نیست و چون در لیست ارزیابی نمره اضافه داشت، 
 ما در گروهمان تا جایی که وقت داشتیم سعی کردیم طراحی را پیاده سازی کنیم. 
 ---------
